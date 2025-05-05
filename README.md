@@ -1,6 +1,6 @@
 # Turing Machine, C
 
-This is a turing machine that is built in C that was built for the final of 408
+This github serves as the repository of a turing machine that is built into the C language.
 
 ## Installation
 
