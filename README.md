@@ -4,14 +4,9 @@ This is a turing machine that is built in C that was built for the final of 408
 
 ## Installation
 
-You can either:
-1. make a clone of the repository, or
-2. download the [`Source`](Source) directory
 
 ## Usage
 
-1. Navigate to the downloaded [`Source`](Source) directory in a terminal of your choice: `cd ~/Source`
-2. run the [driver](Source/driver.py) file in a python interpereter: `python3 driver.py`
 
 ## Project Executive Summary
 ### Describe the Problem
