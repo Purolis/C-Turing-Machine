@@ -6,8 +6,17 @@ This github serves as the repository of a turing machine that is built into the 
 
 
 ## Usage
-```c
+```bash
+Linux
+gcc c_turing_machine.c -o p && ./p
 
+Windows
+cl c_turing_machine.c && c_turing_machine.exe
+
+Mac
+gcc c_turing_machine.c -o p && ./p
+
+Note: Before doing any of these, please make sure to go to the directory that the file is in using cd.
 ```
 
 
