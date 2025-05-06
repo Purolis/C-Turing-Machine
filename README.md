@@ -1,6 +1,7 @@
 # Turing Machine, C
 
 This github serves as the repository of a turing machine that is built into the C language.
+The actual purpose of the turing machine is TBD for now, (probably will be some sort of binary addition using a turing machine).
 
 ## Installation
 
