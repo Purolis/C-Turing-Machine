@@ -48,8 +48,6 @@ The problem is that the turing machine is a great invention that serves a huge p
 ◆ All functions should be well defined. <br />
 ◆ All function should be testable. <br />
 ◆ All code should be self-documenting. <br />
-◆ All OOP code must stringently follow OOP best practices. <br />
-◆ UML design for OOP is expected. <br />
 ◆ Conventional Data Structure designs must be used if possible. <br />
 ◆ Submissions should have no compiler or interpreter errors <br />
 </pre>
