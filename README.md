@@ -4,6 +4,8 @@ This github serves as the repository of a turing machine that is built into the 
 The actual purpose of the turing machine is TBD for now, (probably will be some sort of binary addition using a turing machine).
 
 ## Installation
+1. Navigate to the downloaded [`Code`](Code) directory in a terminal of your choice: `cd ~/Code-R.O.B/Source`
+2. run the [main](Code/c_turing_machine.c) file in a C interpereter: `c_turing_machine.c`
 
 
 ## Usage
