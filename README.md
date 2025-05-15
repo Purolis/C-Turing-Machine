@@ -64,6 +64,8 @@ The problem is that the turing machine is a great invention that serves a huge p
 - [Executive Statement](https://github.com/Purolis/C-Turing-Machine/blob/main/Documentation%20%7C%7C%20Design/Problem_Executive_Summary.md)
 - [Outcome Summary](https://github.com/Purolis/C-Turing-Machine/blob/main/Documentation%20%7C%7C%20Design/Outcome%20Summary.md)
 - [Coding S&P](https://github.com/Purolis/C-Turing-Machine/blob/main/Documentation%20%7C%7C%20Design/Coding_S%26P.md)
+#### `Powerpoint`
+- [Powerpoint](https://github.com/Purolis/C-Turing-Machine/blob/main/Documentation%20%7C%7C%20Design/C%20Turing%20Machine%20Presentation.pptx)
 
 ## Coding Index
 #### `Code`
