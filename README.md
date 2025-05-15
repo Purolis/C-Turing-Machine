@@ -49,7 +49,7 @@ The problem is that the turing machine is a great invention that serves a huge p
 ◆ All function should be testable. <br />
 ◆ All code should be self-documenting. <br />
 ◆ Conventional Data Structure designs must be used if possible. <br />
-◆ Submissions should have no compiler or interpreter errors <br />
+◆ Submissions should have no compiler or interpreter errors. <br />
 </pre>
 
 
