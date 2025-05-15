@@ -53,9 +53,20 @@ The problem is that the turing machine is a great invention that serves a huge p
 </pre>
 
 
-## Documentation Index
+## Documentation / Design Index
+#### `Diagrams`
+- [L0 Diagram](https://github.com/Purolis/C-Turing-Machine/blob/main/Documentation%20%7C%7C%20Design/Diagrams/L0%20Dataflow%20Diagram.jpg)
+- [L1 Diagram](https://github.com/Purolis/C-Turing-Machine/blob/main/Documentation%20%7C%7C%20Design/Diagrams/L1%20Dataflow%20Diagram.jpg)
+- [UML Diagram](https://github.com/Purolis/C-Turing-Machine/blob/main/Documentation%20%7C%7C%20Design/Diagrams/UML_Turing_Machine.jpg)
+#### `Documentation`
+- [Executive Statement](https://github.com/Purolis/C-Turing-Machine/blob/main/Documentation%20%7C%7C%20Design/Problem_Executive_Summary.md)
+- [Outcome Summary](https://github.com/Purolis/C-Turing-Machine/blob/main/Documentation%20%7C%7C%20Design/Outcome%20Summary.md)
+- [Coding S&P](https://github.com/Purolis/C-Turing-Machine/blob/main/Documentation%20%7C%7C%20Design/Coding_S%26P.md)
 
 ## Coding Index
+#### `Code`
+- [Code](https://github.com/Purolis/C-Turing-Machine/blob/main/Code/c_turing_machine.c)
+
 
 
 
